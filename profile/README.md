@@ -1,0 +1,1 @@
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DanteMarshal&layout=compact&langs_count=10&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=DanteMarshal&layout=compact&langs_count=10&theme=blue_navy)
